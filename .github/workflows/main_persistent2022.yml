@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'persistent2022'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0700EBA9DB4348D4B4CCB99B5A320695 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A90D08922AE847C194D677773A8E7DB9 }}
